@@ -1,0 +1,42 @@
+.TipoUsuario{
+  margin-bottom: 50px;
+}
+
+.Usuario{
+  font-family: 'Chewy', cursive;
+  color: #1900FF;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.Espacio{
+  margin-bottom: 30px;
+}
+
+.MujerG{
+  height: 135px;
+  width: 125px;
+  display: block;
+  margin: auto;
+  margin-bottom: 30px;
+  background-color: #fdaec9;
+  color: black;
+  border-radius: 15%;
+  font-family: 'Bree Serif', serif;
+  font-size: 14px;
+}
+
+.Mujer{
+  height: 100px;
+  width: 100px;
+  display: block;
+  margin: auto;
+}
+
+.Obstetra{
+  margin-top: 15px;
+  height: 100px;
+  width: 100px;
+  display: block;
+  margin: auto  
+}
